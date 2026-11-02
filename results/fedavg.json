@@ -1,0 +1,333 @@
+{
+ "name": "fedavg",
+ "history": [
+  {
+   "uav_success": 0.01111111111111111,
+   "mission_success": 0.0,
+   "collisions": 133.98333333333332,
+   "path_ratio": 1.0,
+   "round": 0,
+   "time": 3.0650887489318848
+  },
+  {
+   "uav_success": 0.4111111111111111,
+   "mission_success": 0.13333333333333333,
+   "collisions": 1.7666666666666666,
+   "path_ratio": 1.4494425674964233,
+   "round": 1,
+   "time": 26.415603637695312
+  },
+  {
+   "uav_success": 0.7944444444444444,
+   "mission_success": 0.5833333333333334,
+   "collisions": 1.5666666666666667,
+   "path_ratio": 1.2163310608864148,
+   "round": 2,
+   "time": 35.86082863807678
+  },
+  {
+   "uav_success": 0.8944444444444444,
+   "mission_success": 0.75,
+   "collisions": 1.9166666666666667,
+   "path_ratio": 1.2697029962549191,
+   "round": 3,
+   "time": 44.55013942718506
+  },
+  {
+   "uav_success": 0.8388888888888889,
+   "mission_success": 0.6333333333333333,
+   "collisions": 0.8166666666666667,
+   "path_ratio": 1.1798467922829374,
+   "round": 4,
+   "time": 54.305872440338135
+  },
+  {
+   "uav_success": 0.8111111111111111,
+   "mission_success": 0.55,
+   "collisions": 1.6166666666666667,
+   "path_ratio": 1.1506513771316405,
+   "round": 5,
+   "time": 64.20314025878906
+  },
+  {
+   "uav_success": 0.7611111111111111,
+   "mission_success": 0.5166666666666667,
+   "collisions": 1.0,
+   "path_ratio": 1.465320804154304,
+   "round": 6,
+   "time": 74.32752060890198
+  },
+  {
+   "uav_success": 0.7722222222222223,
+   "mission_success": 0.55,
+   "collisions": 1.75,
+   "path_ratio": 1.2876491976691378,
+   "round": 7,
+   "time": 83.78439497947693
+  },
+  {
+   "uav_success": 0.8333333333333334,
+   "mission_success": 0.65,
+   "collisions": 1.8833333333333333,
+   "path_ratio": 1.2615867918986579,
+   "round": 8,
+   "time": 93.39145684242249
+  },
+  {
+   "uav_success": 0.8499999999999999,
+   "mission_success": 0.6333333333333333,
+   "collisions": 0.8833333333333333,
+   "path_ratio": 1.2286862411372217,
+   "round": 9,
+   "time": 103.09943056106567
+  },
+  {
+   "uav_success": 0.861111111111111,
+   "mission_success": 0.7166666666666667,
+   "collisions": 1.9833333333333334,
+   "path_ratio": 1.2462263963300328,
+   "round": 10,
+   "time": 111.70379567146301
+  },
+  {
+   "uav_success": 0.861111111111111,
+   "mission_success": 0.6833333333333333,
+   "collisions": 0.5833333333333334,
+   "path_ratio": 1.1917868305580173,
+   "round": 11,
+   "time": 120.81588768959045
+  },
+  {
+   "uav_success": 0.8888888888888888,
+   "mission_success": 0.7166666666666667,
+   "collisions": 0.5166666666666667,
+   "path_ratio": 1.189927073628699,
+   "round": 12,
+   "time": 129.25877737998962
+  },
+  {
+   "uav_success": 0.9,
+   "mission_success": 0.75,
+   "collisions": 0.75,
+   "path_ratio": 1.2141351069047146,
+   "round": 13,
+   "time": 138.1058874130249
+  },
+  {
+   "uav_success": 0.9,
+   "mission_success": 0.8333333333333334,
+   "collisions": 0.7666666666666667,
+   "path_ratio": 1.2738648846076561,
+   "round": 14,
+   "time": 146.66378927230835
+  },
+  {
+   "uav_success": 0.9055555555555556,
+   "mission_success": 0.7666666666666667,
+   "collisions": 0.9,
+   "path_ratio": 1.2780647323474983,
+   "round": 15,
+   "time": 155.73355078697205
+  },
+  {
+   "uav_success": 0.8833333333333333,
+   "mission_success": 0.75,
+   "collisions": 0.9166666666666666,
+   "path_ratio": 1.2404093537181775,
+   "round": 16,
+   "time": 164.55141854286194
+  },
+  {
+   "uav_success": 0.8777777777777779,
+   "mission_success": 0.7666666666666667,
+   "collisions": 0.65,
+   "path_ratio": 1.2523825094378633,
+   "round": 17,
+   "time": 172.56380152702332
+  },
+  {
+   "uav_success": 0.8833333333333333,
+   "mission_success": 0.7,
+   "collisions": 1.7333333333333334,
+   "path_ratio": 1.28182077635509,
+   "round": 18,
+   "time": 180.83889961242676
+  },
+  {
+   "uav_success": 0.9,
+   "mission_success": 0.7833333333333333,
+   "collisions": 2.4833333333333334,
+   "path_ratio": 1.211098098386234,
+   "round": 19,
+   "time": 189.11397647857666
+  },
+  {
+   "uav_success": 0.8944444444444444,
+   "mission_success": 0.7666666666666667,
+   "collisions": 0.5333333333333333,
+   "path_ratio": 1.1596027719557134,
+   "round": 20,
+   "time": 197.08766841888428
+  },
+  {
+   "uav_success": 0.8944444444444444,
+   "mission_success": 0.75,
+   "collisions": 0.5,
+   "path_ratio": 1.1136175611788357,
+   "round": 21,
+   "time": 205.8555359840393
+  },
+  {
+   "uav_success": 0.9222222222222223,
+   "mission_success": 0.7833333333333333,
+   "collisions": 0.55,
+   "path_ratio": 1.2039798253098046,
+   "round": 22,
+   "time": 214.52325558662415
+  },
+  {
+   "uav_success": 0.9222222222222222,
+   "mission_success": 0.8,
+   "collisions": 1.8833333333333333,
+   "path_ratio": 1.1426618828702162,
+   "round": 23,
+   "time": 222.8101749420166
+  },
+  {
+   "uav_success": 0.9388888888888888,
+   "mission_success": 0.85,
+   "collisions": 2.216666666666667,
+   "path_ratio": 1.1627678366668306,
+   "round": 24,
+   "time": 230.7441930770874
+  },
+  {
+   "uav_success": 0.9388888888888888,
+   "mission_success": 0.8166666666666667,
+   "collisions": 1.1666666666666667,
+   "path_ratio": 1.1470633283746032,
+   "round": 25,
+   "time": 239.00732588768005
+  },
+  {
+   "uav_success": 0.9166666666666665,
+   "mission_success": 0.7833333333333333,
+   "collisions": 1.8166666666666667,
+   "path_ratio": 1.2553112233626937,
+   "round": 26,
+   "time": 249.10825777053833
+  },
+  {
+   "uav_success": 0.95,
+   "mission_success": 0.85,
+   "collisions": 1.1833333333333333,
+   "path_ratio": 1.234209984369298,
+   "round": 27,
+   "time": 257.6268558502197
+  },
+  {
+   "uav_success": 0.9277777777777777,
+   "mission_success": 0.8333333333333334,
+   "collisions": 1.2666666666666666,
+   "path_ratio": 1.1211196681535662,
+   "round": 28,
+   "time": 265.50371527671814
+  },
+  {
+   "uav_success": 0.9333333333333333,
+   "mission_success": 0.8166666666666667,
+   "collisions": 1.1666666666666667,
+   "path_ratio": 1.1716748982680356,
+   "round": 29,
+   "time": 273.5308027267456
+  },
+  {
+   "uav_success": 0.9111111111111112,
+   "mission_success": 0.7666666666666667,
+   "collisions": 1.2333333333333334,
+   "path_ratio": 1.1251428781820938,
+   "round": 30,
+   "time": 282.0979402065277
+  },
+  {
+   "uav_success": 0.9222222222222222,
+   "mission_success": 0.7833333333333333,
+   "collisions": 3.066666666666667,
+   "path_ratio": 1.1476942193608861,
+   "round": 31,
+   "time": 290.44521284103394
+  },
+  {
+   "uav_success": 0.9277777777777777,
+   "mission_success": 0.8333333333333334,
+   "collisions": 1.85,
+   "path_ratio": 1.189167840816448,
+   "round": 32,
+   "time": 298.19407844543457
+  },
+  {
+   "uav_success": 0.9333333333333333,
+   "mission_success": 0.8333333333333334,
+   "collisions": 0.8666666666666667,
+   "path_ratio": 1.2106561204018833,
+   "round": 33,
+   "time": 306.1097550392151
+  },
+  {
+   "uav_success": 0.9555555555555555,
+   "mission_success": 0.8666666666666667,
+   "collisions": 1.3333333333333333,
+   "path_ratio": 1.1977950233651988,
+   "round": 34,
+   "time": 314.2335777282715
+  },
+  {
+   "uav_success": 0.9444444444444444,
+   "mission_success": 0.85,
+   "collisions": 1.85,
+   "path_ratio": 1.1784032017365353,
+   "round": 35,
+   "time": 323.0433740615845
+  },
+  {
+   "uav_success": 0.9388888888888888,
+   "mission_success": 0.85,
+   "collisions": 0.7,
+   "path_ratio": 1.1794033022846582,
+   "round": 36,
+   "time": 331.0532133579254
+  },
+  {
+   "uav_success": 0.9555555555555556,
+   "mission_success": 0.9,
+   "collisions": 2.1333333333333333,
+   "path_ratio": 1.1527552349611172,
+   "round": 37,
+   "time": 339.063068151474
+  },
+  {
+   "uav_success": 0.9444444444444444,
+   "mission_success": 0.8666666666666667,
+   "collisions": 1.8333333333333333,
+   "path_ratio": 1.2258358178663056,
+   "round": 38,
+   "time": 346.8373429775238
+  },
+  {
+   "uav_success": 0.9388888888888888,
+   "mission_success": 0.8333333333333334,
+   "collisions": 3.0833333333333335,
+   "path_ratio": 1.2221138209438003,
+   "round": 39,
+   "time": 354.69212794303894
+  },
+  {
+   "uav_success": 0.9722222222222221,
+   "mission_success": 0.9166666666666666,
+   "collisions": 1.5333333333333334,
+   "path_ratio": 1.2176949330625801,
+   "round": 40,
+   "time": 362.33717799186707
+  }
+ ]
+}

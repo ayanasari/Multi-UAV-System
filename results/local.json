@@ -1,0 +1,77 @@
+{
+ "name": "local-only",
+ "history": [
+  {
+   "uav_success": 0.681111111111111,
+   "mission_success": 0.4066666666666666,
+   "collisions": 2.913333333333333,
+   "path_ratio": 1.4545676221952673,
+   "worst_uav_success": 0.5944444444444446,
+   "round": 5,
+   "time": 36.549744606018066
+  },
+  {
+   "uav_success": 0.731111111111111,
+   "mission_success": 0.4366666666666667,
+   "collisions": 2.96,
+   "path_ratio": 1.364829746143457,
+   "worst_uav_success": 0.6611111111111111,
+   "round": 10,
+   "time": 72.27538657188416
+  },
+  {
+   "uav_success": 0.7455555555555555,
+   "mission_success": 0.4666666666666667,
+   "collisions": 2.3766666666666665,
+   "path_ratio": 1.372047112882072,
+   "worst_uav_success": 0.6555555555555554,
+   "round": 15,
+   "time": 107.41114068031311
+  },
+  {
+   "uav_success": 0.7988888888888888,
+   "mission_success": 0.55,
+   "collisions": 3.353333333333333,
+   "path_ratio": 1.3166834674967858,
+   "worst_uav_success": 0.711111111111111,
+   "round": 20,
+   "time": 140.89875602722168
+  },
+  {
+   "uav_success": 0.7944444444444443,
+   "mission_success": 0.5466666666666666,
+   "collisions": 4.32,
+   "path_ratio": 1.4046230938414914,
+   "worst_uav_success": 0.7,
+   "round": 25,
+   "time": 175.99534916877747
+  },
+  {
+   "uav_success": 0.8044444444444444,
+   "mission_success": 0.5766666666666667,
+   "collisions": 5.279999999999999,
+   "path_ratio": 1.3886116313610677,
+   "worst_uav_success": 0.6833333333333332,
+   "round": 30,
+   "time": 209.69422030448914
+  },
+  {
+   "uav_success": 0.8188888888888888,
+   "mission_success": 0.6133333333333333,
+   "collisions": 5.789999999999999,
+   "path_ratio": 1.3645754361399207,
+   "worst_uav_success": 0.75,
+   "round": 35,
+   "time": 246.22371172904968
+  },
+  {
+   "uav_success": 0.8133333333333332,
+   "mission_success": 0.5866666666666667,
+   "collisions": 5.666666666666666,
+   "path_ratio": 1.291198209064831,
+   "worst_uav_success": 0.7,
+   "round": 40,
+   "time": 279.4486222267151
+  }
+ ]
+}

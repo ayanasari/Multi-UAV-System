@@ -1,0 +1,7 @@
+{
+ "params": 42757,
+ "model_mb": 0.171028,
+ "avg_transitions_per_client_round": 1494.32,
+ "federated_total_mb": 68.41120000000001,
+ "centralized_raw_data_mb": 479.377856
+}
